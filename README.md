@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working on MEDIPROCESOS SV as a developer.
+- - 🌱 I’m currently learning Python
+
+![snake gif](https://github.com/samportan/samportan/blob/output/github-contribution-grid-snake.gif)
+
 <!--
 **samportan/samportan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
